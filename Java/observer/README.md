@@ -11,7 +11,7 @@ tags:
  - Gang Of Four
  - Reactive
 ---
-
+![UML of example](https://github.com/DaiQing1995/DesignPattern/blob/master/Java/observer/resource/uml.png)
 ## Also known as
 Dependents, Publish-Subscribe
 
